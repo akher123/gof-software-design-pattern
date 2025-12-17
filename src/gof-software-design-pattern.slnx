@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Behavioral/" />
   <Folder Name="/Crational/">
+    <Project Path="Creational/Builder/Builder.csproj" Id="37c1d849-6779-4dae-9cd7-0ea6c7301288" />
     <Project Path="Creational/Prototype/Prototype.csproj" Id="cc3bb7ae-b3a7-4fd9-b235-503faffa95cc" />
   </Folder>
   <Folder Name="/Structural/" />
