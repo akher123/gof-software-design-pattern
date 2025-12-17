@@ -6,5 +6,7 @@
     <Project Path="Creational/Prototype/Prototype.csproj" Id="cc3bb7ae-b3a7-4fd9-b235-503faffa95cc" />
     <Project Path="Creational/Singleton/Singleton.csproj" Id="52cfe9f8-b5fd-4ff8-a3c7-8dac367fb470" />
   </Folder>
-  <Folder Name="/Structural/" />
+  <Folder Name="/Structural/">
+    <Project Path="Structural/AdapterPattern/AdapterPattern.csproj" Id="95de2bc8-ed38-48a8-8dd0-e309adb80933" />
+  </Folder>
 </Solution>
