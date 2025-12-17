@@ -8,5 +8,6 @@
   </Folder>
   <Folder Name="/Structural/">
     <Project Path="Structural/AdapterPattern/AdapterPattern.csproj" Id="95de2bc8-ed38-48a8-8dd0-e309adb80933" />
+    <Project Path="Structural/Decorator/Decorator.csproj" Id="4631a311-c037-4059-85fa-72e6a6a57cfb" />
   </Folder>
 </Solution>
